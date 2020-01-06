@@ -57,12 +57,31 @@ footer{
 
 /* for member tab*/
 #nav2{
+
 	width:500px;
 	margin: 0 auto;
+		margin-top:20px;
 }
 #navbar2 li{
 	display:inline-block;
 }
+#professor{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#people_photo{
+	margin-top:20px;
+	vertical-align: top;
+	display: inline-block;
+}
+#description{
+	margin-left: 20px;
+	vertical-align: top;
+	display: inline-block;
+	font-family: arial;
+	line-height: 24px;
+}
+
 
 .navi2_here{
 	text-decoration: none;
