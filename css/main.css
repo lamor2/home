@@ -17,17 +17,17 @@ body{
 	margin: 0 auto;
 }
 .navi{
-	margin-top:30px;
+	margin-top:10px;
 	margin-bottom:15px;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 35px;
+	margin-right: 35px;
 	text-decoration: none;
 	display:inline-block;
 }
 
 .navi_here{
 	text-decoration: none;
-	color: navy;
+	color: black;
 	font-family: arial;
 	font-size: 20px;
 	font-weight: bolder;
@@ -35,7 +35,7 @@ body{
 
 .navi_other{
 	text-decoration: none;
-	color: navy;
+	color: black;
 	font-family: arial;
 	font-size: 20px;
 }
@@ -55,16 +55,8 @@ footer{
 	text-align: right;
 }
 
-/* for member tab*/
-#nav2{
+/* for Professor tab*/
 
-	width:500px;
-	margin: 0 auto;
-		margin-top:20px;
-}
-#navbar2 li{
-	display:inline-block;
-}
 #professor{
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -82,18 +74,31 @@ footer{
 	line-height: 24px;
 }
 
+/*for researcher tab*/
+#nav2{
+	width:500px;
+	margin-left:300px;
+}
+#navbar2 li{
+	vertical-align: top;
+	display:inline-block;
+}
 
 .navi2_here{
 	text-decoration: none;
-	color: navy;
+	color: black;
 	font-family: arial;
 	font-size: 15px;
 	font-weight: bolder;
+	margin-left:10px;
+	margin-right:10px;
 }
 
 .navi2_other{
 	text-decoration: none;
-	color: navy;
+	color: black;
 	font-family: arial;
 	font-size: 15px;
+	margin-left:10px;
+	margin-right:10px;
 }
