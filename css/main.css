@@ -74,7 +74,7 @@ footer{
 	line-height: 24px;
 }
 
-/*for researcher tab*/
+/*for member tab*/
 #nav2{
 	width:500px;
 	margin-left:300px;
@@ -101,4 +101,15 @@ footer{
 	font-size: 15px;
 	margin-left:10px;
 	margin-right:10px;
+}
+#postdoc{
+	margin-top: 50px;
+}
+.title{
+	font-family: arial;
+	font-size: 30px;
+}
+
+#intern{
+	margin-top: 40px;
 }
