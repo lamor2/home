@@ -54,6 +54,7 @@ footer{
 	margin: 0 auto;
 }
 #address{
+	opacity: 0.6;
 	background-color: gray;
 	height:80px;
 	margin-top: 50px;
