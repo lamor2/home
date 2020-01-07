@@ -4,6 +4,10 @@ header{
 	margin: 0 auto;
 }
 
+#header_image{
+	margin-bottom: 30px;
+}
+
 #nav{
 	width:960px;
 	height:60px;
